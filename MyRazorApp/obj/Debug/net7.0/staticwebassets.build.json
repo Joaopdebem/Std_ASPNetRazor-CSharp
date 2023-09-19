@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "rxCokiE3cyOqLpH5ahm6YZUwJkxuQeFQbVjbiBa8uOU=",
+  "Source": "MyRazorApp",
+  "BasePath": "_content/MyRazorApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyRazorApp\\wwwroot",
+      "Source": "MyRazorApp",
+      "ContentRoot": "C:\\Dev\\baltaio\\ASPNetRazor\\MyRazorApp\\wwwroot\\",
+      "BasePath": "_content/MyRazorApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
